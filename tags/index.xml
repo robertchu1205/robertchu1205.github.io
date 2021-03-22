@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on ChuZhu</title>
-    <link>https://robertchu1205.github.io/test-devops/tags/</link>
+    <link>http://192.168.1.21:80/tags/</link>
     <description>Recent content in Tags on ChuZhu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://robertchu1205.github.io/test-devops/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://192.168.1.21:80/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>devops</title>
-      <link>https://robertchu1205.github.io/test-devops/tags/devops/</link>
+      <link>http://192.168.1.21:80/tags/devops/</link>
       <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://robertchu1205.github.io/test-devops/tags/devops/</guid>
+      <guid>http://192.168.1.21:80/tags/devops/</guid>
       <description></description>
     </item>
     
     <item>
       <title>reasons</title>
-      <link>https://robertchu1205.github.io/test-devops/tags/reasons/</link>
+      <link>http://192.168.1.21:80/tags/reasons/</link>
       <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://robertchu1205.github.io/test-devops/tags/reasons/</guid>
+      <guid>http://192.168.1.21:80/tags/reasons/</guid>
       <description></description>
     </item>
     
     <item>
       <title>sre</title>
-      <link>https://robertchu1205.github.io/test-devops/tags/sre/</link>
+      <link>http://192.168.1.21:80/tags/sre/</link>
       <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://robertchu1205.github.io/test-devops/tags/sre/</guid>
+      <guid>http://192.168.1.21:80/tags/sre/</guid>
       <description></description>
     </item>
     
     <item>
       <title>thoughts</title>
-      <link>https://robertchu1205.github.io/test-devops/tags/thoughts/</link>
+      <link>http://192.168.1.21:80/tags/thoughts/</link>
       <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://robertchu1205.github.io/test-devops/tags/thoughts/</guid>
+      <guid>http://192.168.1.21:80/tags/thoughts/</guid>
       <description></description>
     </item>
     

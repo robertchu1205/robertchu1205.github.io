@@ -3,96 +3,96 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://robertchu1205.github.io/test-devops/categories/</loc>
+    <loc>http://192.168.1.21:80/categories/</loc>
     <lastmod>2021-03-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://robertchu1205.github.io/test-devops/</loc>
+    <loc>http://192.168.1.21:80/</loc>
     <lastmod>2021-03-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://robertchu1205.github.io/test-devops/tags/devops/</loc>
+    <loc>http://192.168.1.21:80/tags/devops/</loc>
     <lastmod>2021-03-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://robertchu1205.github.io/test-devops/categories/devops/</loc>
+    <loc>http://192.168.1.21:80/categories/devops/</loc>
     <lastmod>2021-03-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://robertchu1205.github.io/test-devops/post/</loc>
+    <loc>http://192.168.1.21:80/post/</loc>
     <lastmod>2021-03-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://robertchu1205.github.io/test-devops/tags/reasons/</loc>
+    <loc>http://192.168.1.21:80/tags/reasons/</loc>
     <lastmod>2021-03-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://robertchu1205.github.io/test-devops/tags/sre/</loc>
+    <loc>http://192.168.1.21:80/tags/sre/</loc>
     <lastmod>2021-03-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://robertchu1205.github.io/test-devops/categories/sre/</loc>
+    <loc>http://192.168.1.21:80/categories/sre/</loc>
     <lastmod>2021-03-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://robertchu1205.github.io/test-devops/tags/</loc>
+    <loc>http://192.168.1.21:80/tags/</loc>
     <lastmod>2021-03-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://robertchu1205.github.io/test-devops/tags/thoughts/</loc>
+    <loc>http://192.168.1.21:80/tags/thoughts/</loc>
     <lastmod>2021-03-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://robertchu1205.github.io/test-devops/post/thoughts-of-bio/</loc>
+    <loc>http://192.168.1.21:80/post/thoughts-of-bio/</loc>
     <lastmod>2021-03-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://robertchu1205.github.io/test-devops/zone/3/</loc>
+    <loc>http://192.168.1.21:80/zone/3/</loc>
     <lastmod>2019-12-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://robertchu1205.github.io/test-devops/zone/</loc>
+    <loc>http://192.168.1.21:80/zone/</loc>
     <lastmod>2019-12-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://robertchu1205.github.io/test-devops/zone/1/</loc>
+    <loc>http://192.168.1.21:80/zone/1/</loc>
     <lastmod>2019-10-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://robertchu1205.github.io/test-devops/zone/2/</loc>
+    <loc>http://192.168.1.21:80/zone/2/</loc>
     <lastmod>2019-10-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://robertchu1205.github.io/test-devops/gallery/a/</loc>
+    <loc>http://192.168.1.21:80/gallery/a/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://robertchu1205.github.io/test-devops/gallery/</loc>
+    <loc>http://192.168.1.21:80/gallery/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://robertchu1205.github.io/test-devops/series/</loc>
+    <loc>http://192.168.1.21:80/series/</loc>
   </url>
   
   <url>
-    <loc>https://robertchu1205.github.io/test-devops/series/series/</loc>
+    <loc>http://192.168.1.21:80/series/series/</loc>
   </url>
   
 </urlset>

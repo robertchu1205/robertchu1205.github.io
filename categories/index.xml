@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on ChuZhu</title>
-    <link>https://robertchu1205.github.io/test-devops/categories/</link>
+    <link>http://192.168.1.21:80/categories/</link>
     <description>Recent content in Categories on ChuZhu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://robertchu1205.github.io/test-devops/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://192.168.1.21:80/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>devops</title>
-      <link>https://robertchu1205.github.io/test-devops/categories/devops/</link>
+      <link>http://192.168.1.21:80/categories/devops/</link>
       <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://robertchu1205.github.io/test-devops/categories/devops/</guid>
+      <guid>http://192.168.1.21:80/categories/devops/</guid>
       <description></description>
     </item>
     
     <item>
       <title>sre</title>
-      <link>https://robertchu1205.github.io/test-devops/categories/sre/</link>
+      <link>http://192.168.1.21:80/categories/sre/</link>
       <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://robertchu1205.github.io/test-devops/categories/sre/</guid>
+      <guid>http://192.168.1.21:80/categories/sre/</guid>
       <description></description>
     </item>
     

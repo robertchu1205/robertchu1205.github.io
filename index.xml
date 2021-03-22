@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ChuZhu</title>
-    <link>https://robertchu1205.github.io/test-devops/</link>
+    <link>http://192.168.1.21:80/</link>
     <description>Recent content on ChuZhu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://robertchu1205.github.io/test-devops/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://192.168.1.21:80/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Thoughts of this bio</title>
-      <link>https://robertchu1205.github.io/test-devops/post/thoughts-of-bio/</link>
+      <link>http://192.168.1.21:80/post/thoughts-of-bio/</link>
       <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://robertchu1205.github.io/test-devops/post/thoughts-of-bio/</guid>
+      <guid>http://192.168.1.21:80/post/thoughts-of-bio/</guid>
       <description>Robert Chu - Devops Task static site generator chosen Why Hugo, not Jekyll  more straightforward (installing themes and itself) binary (easier) installation faster builds Go built built-in live reload server Useful Features (e.g. Menus, sitemaps) Thriving community (The most Github stars in all static site generator)  Why Erblog as theme  mobile responsive posts showed in the landing pages  </description>
     </item>
     
     <item>
       <title>Happy Birthday to BM</title>
-      <link>https://robertchu1205.github.io/test-devops/zone/3/</link>
+      <link>http://192.168.1.21:80/zone/3/</link>
       <pubDate>Wed, 04 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://robertchu1205.github.io/test-devops/zone/3/</guid>
+      <guid>http://192.168.1.21:80/zone/3/</guid>
       <description>A scholarship A letter from my email says that I have got a scholarship.</description>
     </item>
     
     <item>
       <title>Happy Birthday to BM</title>
-      <link>https://robertchu1205.github.io/test-devops/zone/1/</link>
+      <link>http://192.168.1.21:80/zone/1/</link>
       <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://robertchu1205.github.io/test-devops/zone/1/</guid>
+      <guid>http://192.168.1.21:80/zone/1/</guid>
       <description>Happy Birthday to BM! Happy Birthday to you, Be happy and healthy!</description>
     </item>
     
     <item>
       <title>I got my first salary</title>
-      <link>https://robertchu1205.github.io/test-devops/zone/2/</link>
+      <link>http://192.168.1.21:80/zone/2/</link>
       <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://robertchu1205.github.io/test-devops/zone/2/</guid>
+      <guid>http://192.168.1.21:80/zone/2/</guid>
       <description>I got my first salary In this semester, I am a TA for C Language Programming. Today I got my first salary in my life. I felt proud of myself.</description>
     </item>
     
     <item>
       <title>A gallery</title>
-      <link>https://robertchu1205.github.io/test-devops/gallery/a/</link>
+      <link>http://192.168.1.21:80/gallery/a/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://robertchu1205.github.io/test-devops/gallery/a/</guid>
+      <guid>http://192.168.1.21:80/gallery/a/</guid>
       <description>  /img/index.png     /img/list.png     /img/single.png     /img/zone.png     /img/about.png   </description>
     </item>
     
