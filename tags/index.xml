@@ -1,1 +1,47 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on ChuZhu</title><link>https://robertchu1205.github.io/test-devops/tags/</link><description>Recent content in Tags on ChuZhu</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 19 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://robertchu1205.github.io/test-devops/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>devops</title><link>https://robertchu1205.github.io/test-devops/tags/devops/</link><pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate><guid>https://robertchu1205.github.io/test-devops/tags/devops/</guid><description/></item><item><title>reasons</title><link>https://robertchu1205.github.io/test-devops/tags/reasons/</link><pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate><guid>https://robertchu1205.github.io/test-devops/tags/reasons/</guid><description/></item><item><title>sre</title><link>https://robertchu1205.github.io/test-devops/tags/sre/</link><pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate><guid>https://robertchu1205.github.io/test-devops/tags/sre/</guid><description/></item><item><title>thoughts</title><link>https://robertchu1205.github.io/test-devops/tags/thoughts/</link><pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate><guid>https://robertchu1205.github.io/test-devops/tags/thoughts/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on ChuZhu</title>
+    <link>https://robertchu1205.github.io/test-devops/tags/</link>
+    <description>Recent content in Tags on ChuZhu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://robertchu1205.github.io/test-devops/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>devops</title>
+      <link>https://robertchu1205.github.io/test-devops/tags/devops/</link>
+      <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://robertchu1205.github.io/test-devops/tags/devops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reasons</title>
+      <link>https://robertchu1205.github.io/test-devops/tags/reasons/</link>
+      <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://robertchu1205.github.io/test-devops/tags/reasons/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sre</title>
+      <link>https://robertchu1205.github.io/test-devops/tags/sre/</link>
+      <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://robertchu1205.github.io/test-devops/tags/sre/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>thoughts</title>
+      <link>https://robertchu1205.github.io/test-devops/tags/thoughts/</link>
+      <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://robertchu1205.github.io/test-devops/tags/thoughts/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,1 +1,98 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://robertchu1205.github.io/test-devops/categories/</loc><lastmod>2021-03-19T00:00:00+00:00</lastmod></url><url><loc>https://robertchu1205.github.io/test-devops/</loc><lastmod>2021-03-19T00:00:00+00:00</lastmod></url><url><loc>https://robertchu1205.github.io/test-devops/tags/devops/</loc><lastmod>2021-03-19T00:00:00+00:00</lastmod></url><url><loc>https://robertchu1205.github.io/test-devops/categories/devops/</loc><lastmod>2021-03-19T00:00:00+00:00</lastmod></url><url><loc>https://robertchu1205.github.io/test-devops/post/</loc><lastmod>2021-03-19T00:00:00+00:00</lastmod></url><url><loc>https://robertchu1205.github.io/test-devops/tags/reasons/</loc><lastmod>2021-03-19T00:00:00+00:00</lastmod></url><url><loc>https://robertchu1205.github.io/test-devops/tags/sre/</loc><lastmod>2021-03-19T00:00:00+00:00</lastmod></url><url><loc>https://robertchu1205.github.io/test-devops/categories/sre/</loc><lastmod>2021-03-19T00:00:00+00:00</lastmod></url><url><loc>https://robertchu1205.github.io/test-devops/tags/</loc><lastmod>2021-03-19T00:00:00+00:00</lastmod></url><url><loc>https://robertchu1205.github.io/test-devops/tags/thoughts/</loc><lastmod>2021-03-19T00:00:00+00:00</lastmod></url><url><loc>https://robertchu1205.github.io/test-devops/post/thoughts-of-bio/</loc><lastmod>2021-03-19T00:00:00+00:00</lastmod></url><url><loc>https://robertchu1205.github.io/test-devops/zone/3/</loc><lastmod>2019-12-04T00:00:00+00:00</lastmod></url><url><loc>https://robertchu1205.github.io/test-devops/zone/</loc><lastmod>2019-12-04T00:00:00+00:00</lastmod></url><url><loc>https://robertchu1205.github.io/test-devops/zone/1/</loc><lastmod>2019-10-28T00:00:00+00:00</lastmod></url><url><loc>https://robertchu1205.github.io/test-devops/zone/2/</loc><lastmod>2019-10-14T00:00:00+00:00</lastmod></url><url><loc>https://robertchu1205.github.io/test-devops/gallery/a/</loc><lastmod>2019-03-05T00:00:00+00:00</lastmod></url><url><loc>https://robertchu1205.github.io/test-devops/gallery/</loc><lastmod>2019-03-05T00:00:00+00:00</lastmod></url><url><loc>https://robertchu1205.github.io/test-devops/series/</loc></url><url><loc>https://robertchu1205.github.io/test-devops/series/series/</loc></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://robertchu1205.github.io/test-devops/categories/</loc>
+    <lastmod>2021-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://robertchu1205.github.io/test-devops/</loc>
+    <lastmod>2021-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://robertchu1205.github.io/test-devops/tags/devops/</loc>
+    <lastmod>2021-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://robertchu1205.github.io/test-devops/categories/devops/</loc>
+    <lastmod>2021-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://robertchu1205.github.io/test-devops/post/</loc>
+    <lastmod>2021-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://robertchu1205.github.io/test-devops/tags/reasons/</loc>
+    <lastmod>2021-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://robertchu1205.github.io/test-devops/tags/sre/</loc>
+    <lastmod>2021-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://robertchu1205.github.io/test-devops/categories/sre/</loc>
+    <lastmod>2021-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://robertchu1205.github.io/test-devops/tags/</loc>
+    <lastmod>2021-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://robertchu1205.github.io/test-devops/tags/thoughts/</loc>
+    <lastmod>2021-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://robertchu1205.github.io/test-devops/post/thoughts-of-bio/</loc>
+    <lastmod>2021-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://robertchu1205.github.io/test-devops/zone/3/</loc>
+    <lastmod>2019-12-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://robertchu1205.github.io/test-devops/zone/</loc>
+    <lastmod>2019-12-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://robertchu1205.github.io/test-devops/zone/1/</loc>
+    <lastmod>2019-10-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://robertchu1205.github.io/test-devops/zone/2/</loc>
+    <lastmod>2019-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://robertchu1205.github.io/test-devops/gallery/a/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://robertchu1205.github.io/test-devops/gallery/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://robertchu1205.github.io/test-devops/series/</loc>
+  </url>
+  
+  <url>
+    <loc>https://robertchu1205.github.io/test-devops/series/series/</loc>
+  </url>
+  
+</urlset>
