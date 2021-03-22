@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on ChuZhu</title>
-    <link>github.io/tags/</link>
+    <link>https://github.com/robertchu1205/robertchu1205.github.io.git/tags/</link>
     <description>Recent content in Tags on ChuZhu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://github.com/robertchu1205/robertchu1205.github.io.git/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>devops</title>
-      <link>github.io/tags/devops/</link>
+      <link>https://github.com/robertchu1205/robertchu1205.github.io.git/tags/devops/</link>
       <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>github.io/tags/devops/</guid>
+      <guid>https://github.com/robertchu1205/robertchu1205.github.io.git/tags/devops/</guid>
       <description></description>
     </item>
     
     <item>
       <title>reasons</title>
-      <link>github.io/tags/reasons/</link>
+      <link>https://github.com/robertchu1205/robertchu1205.github.io.git/tags/reasons/</link>
       <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>github.io/tags/reasons/</guid>
+      <guid>https://github.com/robertchu1205/robertchu1205.github.io.git/tags/reasons/</guid>
       <description></description>
     </item>
     
     <item>
       <title>sre</title>
-      <link>github.io/tags/sre/</link>
+      <link>https://github.com/robertchu1205/robertchu1205.github.io.git/tags/sre/</link>
       <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>github.io/tags/sre/</guid>
+      <guid>https://github.com/robertchu1205/robertchu1205.github.io.git/tags/sre/</guid>
       <description></description>
     </item>
     
     <item>
       <title>thoughts</title>
-      <link>github.io/tags/thoughts/</link>
+      <link>https://github.com/robertchu1205/robertchu1205.github.io.git/tags/thoughts/</link>
       <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>github.io/tags/thoughts/</guid>
+      <guid>https://github.com/robertchu1205/robertchu1205.github.io.git/tags/thoughts/</guid>
       <description></description>
     </item>
     

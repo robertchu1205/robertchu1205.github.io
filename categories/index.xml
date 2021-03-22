@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on ChuZhu</title>
-    <link>github.io/categories/</link>
+    <link>https://github.com/robertchu1205/robertchu1205.github.io.git/categories/</link>
     <description>Recent content in Categories on ChuZhu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://github.com/robertchu1205/robertchu1205.github.io.git/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>devops</title>
-      <link>github.io/categories/devops/</link>
+      <link>https://github.com/robertchu1205/robertchu1205.github.io.git/categories/devops/</link>
       <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>github.io/categories/devops/</guid>
+      <guid>https://github.com/robertchu1205/robertchu1205.github.io.git/categories/devops/</guid>
       <description></description>
     </item>
     
     <item>
       <title>sre</title>
-      <link>github.io/categories/sre/</link>
+      <link>https://github.com/robertchu1205/robertchu1205.github.io.git/categories/sre/</link>
       <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>github.io/categories/sre/</guid>
+      <guid>https://github.com/robertchu1205/robertchu1205.github.io.git/categories/sre/</guid>
       <description></description>
     </item>
     
