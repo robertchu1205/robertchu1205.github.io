@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on ChuZhu</title>
-    <link>//example.org/tags.html</link>
+    <link>/robertchu1205.github.io/tags.html</link>
     <description>Recent content in Tags on ChuZhu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="//example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="/robertchu1205.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>devops</title>
-      <link>//example.org/tags/devops.html</link>
+      <link>/robertchu1205.github.io/tags/devops.html</link>
       <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>//example.org/tags/devops.html</guid>
+      <guid>/robertchu1205.github.io/tags/devops.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>reasons</title>
-      <link>//example.org/tags/reasons.html</link>
+      <link>/robertchu1205.github.io/tags/reasons.html</link>
       <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>//example.org/tags/reasons.html</guid>
+      <guid>/robertchu1205.github.io/tags/reasons.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>sre</title>
-      <link>//example.org/tags/sre.html</link>
+      <link>/robertchu1205.github.io/tags/sre.html</link>
       <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>//example.org/tags/sre.html</guid>
+      <guid>/robertchu1205.github.io/tags/sre.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>thoughts</title>
-      <link>//example.org/tags/thoughts.html</link>
+      <link>/robertchu1205.github.io/tags/thoughts.html</link>
       <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>//example.org/tags/thoughts.html</guid>
+      <guid>/robertchu1205.github.io/tags/thoughts.html</guid>
       <description></description>
     </item>
     

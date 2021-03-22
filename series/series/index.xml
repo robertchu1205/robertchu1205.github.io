@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>series on ChuZhu</title>
-    <link>//example.org/series/series.html</link>
+    <link>/robertchu1205.github.io/series/series.html</link>
     <description>Recent content in series on ChuZhu</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="//example.org/series/series/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/robertchu1205.github.io/series/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Posts</title>
-      <link>//example.org/post.html</link>
+      <link>/robertchu1205.github.io/post.html</link>
       <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>//example.org/post.html</guid>
+      <guid>/robertchu1205.github.io/post.html</guid>
       <description></description>
     </item>
     
