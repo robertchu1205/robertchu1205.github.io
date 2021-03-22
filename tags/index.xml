@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on ChuZhu</title>
-    <link>https://github.com/robertchu1205/robertchu1205.github.io.git/tags/</link>
+    <link>//example.org/tags.html</link>
     <description>Recent content in Tags on ChuZhu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://github.com/robertchu1205/robertchu1205.github.io.git/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="//example.org/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>devops</title>
-      <link>https://github.com/robertchu1205/robertchu1205.github.io.git/tags/devops/</link>
+      <link>//example.org/tags/devops.html</link>
       <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/robertchu1205/robertchu1205.github.io.git/tags/devops/</guid>
+      <guid>//example.org/tags/devops.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>reasons</title>
-      <link>https://github.com/robertchu1205/robertchu1205.github.io.git/tags/reasons/</link>
+      <link>//example.org/tags/reasons.html</link>
       <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/robertchu1205/robertchu1205.github.io.git/tags/reasons/</guid>
+      <guid>//example.org/tags/reasons.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>sre</title>
-      <link>https://github.com/robertchu1205/robertchu1205.github.io.git/tags/sre/</link>
+      <link>//example.org/tags/sre.html</link>
       <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/robertchu1205/robertchu1205.github.io.git/tags/sre/</guid>
+      <guid>//example.org/tags/sre.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>thoughts</title>
-      <link>https://github.com/robertchu1205/robertchu1205.github.io.git/tags/thoughts/</link>
+      <link>//example.org/tags/thoughts.html</link>
       <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/robertchu1205/robertchu1205.github.io.git/tags/thoughts/</guid>
+      <guid>//example.org/tags/thoughts.html</guid>
       <description></description>
     </item>
     

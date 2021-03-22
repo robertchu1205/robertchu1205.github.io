@@ -3,96 +3,96 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://github.com/robertchu1205/robertchu1205.github.io.git/categories/</loc>
+    <loc>//example.org/categories.html</loc>
     <lastmod>2021-03-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://github.com/robertchu1205/robertchu1205.github.io.git/</loc>
+    <loc>//example.org/</loc>
     <lastmod>2021-03-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://github.com/robertchu1205/robertchu1205.github.io.git/tags/devops/</loc>
+    <loc>//example.org/tags/devops.html</loc>
     <lastmod>2021-03-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://github.com/robertchu1205/robertchu1205.github.io.git/categories/devops/</loc>
+    <loc>//example.org/categories/devops.html</loc>
     <lastmod>2021-03-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://github.com/robertchu1205/robertchu1205.github.io.git/post/</loc>
+    <loc>//example.org/post.html</loc>
     <lastmod>2021-03-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://github.com/robertchu1205/robertchu1205.github.io.git/tags/reasons/</loc>
+    <loc>//example.org/tags/reasons.html</loc>
     <lastmod>2021-03-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://github.com/robertchu1205/robertchu1205.github.io.git/tags/sre/</loc>
+    <loc>//example.org/tags/sre.html</loc>
     <lastmod>2021-03-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://github.com/robertchu1205/robertchu1205.github.io.git/categories/sre/</loc>
+    <loc>//example.org/categories/sre.html</loc>
     <lastmod>2021-03-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://github.com/robertchu1205/robertchu1205.github.io.git/tags/</loc>
+    <loc>//example.org/tags.html</loc>
     <lastmod>2021-03-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://github.com/robertchu1205/robertchu1205.github.io.git/tags/thoughts/</loc>
+    <loc>//example.org/tags/thoughts.html</loc>
     <lastmod>2021-03-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://github.com/robertchu1205/robertchu1205.github.io.git/post/thoughts-of-bio/</loc>
+    <loc>//example.org/post/thoughts-of-bio.html</loc>
     <lastmod>2021-03-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://github.com/robertchu1205/robertchu1205.github.io.git/zone/3/</loc>
+    <loc>//example.org/zone/3.html</loc>
     <lastmod>2019-12-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://github.com/robertchu1205/robertchu1205.github.io.git/zone/</loc>
+    <loc>//example.org/zone.html</loc>
     <lastmod>2019-12-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://github.com/robertchu1205/robertchu1205.github.io.git/zone/1/</loc>
+    <loc>//example.org/zone/1.html</loc>
     <lastmod>2019-10-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://github.com/robertchu1205/robertchu1205.github.io.git/zone/2/</loc>
+    <loc>//example.org/zone/2.html</loc>
     <lastmod>2019-10-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://github.com/robertchu1205/robertchu1205.github.io.git/gallery/a/</loc>
+    <loc>//example.org/gallery/a.html</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://github.com/robertchu1205/robertchu1205.github.io.git/gallery/</loc>
+    <loc>//example.org/gallery.html</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://github.com/robertchu1205/robertchu1205.github.io.git/series/</loc>
+    <loc>//example.org/series.html</loc>
   </url>
   
   <url>
-    <loc>https://github.com/robertchu1205/robertchu1205.github.io.git/series/series/</loc>
+    <loc>//example.org/series/series.html</loc>
   </url>
   
 </urlset>
