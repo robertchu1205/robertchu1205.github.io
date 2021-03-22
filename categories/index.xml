@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on ChuZhu</title>
-    <link>/categories.html</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on ChuZhu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 19 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>devops</title>
-      <link>/categories/devops.html</link>
+      <link>/categories/devops/</link>
       <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>/categories/devops.html</guid>
+      <guid>/categories/devops/</guid>
       <description></description>
     </item>
     
     <item>
       <title>sre</title>
-      <link>/categories/sre.html</link>
+      <link>/categories/sre/</link>
       <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>/categories/sre.html</guid>
+      <guid>/categories/sre/</guid>
       <description></description>
     </item>
     

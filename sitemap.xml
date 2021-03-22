@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/categories.html</loc>
+    <loc>/categories/</loc>
     <lastmod>2021-03-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -13,86 +13,86 @@
   </url>
   
   <url>
-    <loc>/tags/devops.html</loc>
+    <loc>/tags/devops/</loc>
     <lastmod>2021-03-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/devops.html</loc>
+    <loc>/categories/devops/</loc>
     <lastmod>2021-03-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post.html</loc>
+    <loc>/post/</loc>
     <lastmod>2021-03-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/reasons.html</loc>
+    <loc>/tags/reasons/</loc>
     <lastmod>2021-03-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/sre.html</loc>
+    <loc>/tags/sre/</loc>
     <lastmod>2021-03-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/sre.html</loc>
+    <loc>/categories/sre/</loc>
     <lastmod>2021-03-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags.html</loc>
+    <loc>/tags/</loc>
     <lastmod>2021-03-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/thoughts.html</loc>
+    <loc>/tags/thoughts/</loc>
     <lastmod>2021-03-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/thoughts-of-bio.html</loc>
+    <loc>/post/thoughts-of-bio/</loc>
     <lastmod>2021-03-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/zone/3.html</loc>
+    <loc>/zone/3/</loc>
     <lastmod>2019-12-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/zone.html</loc>
+    <loc>/zone/</loc>
     <lastmod>2019-12-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/zone/1.html</loc>
+    <loc>/zone/1/</loc>
     <lastmod>2019-10-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/zone/2.html</loc>
+    <loc>/zone/2/</loc>
     <lastmod>2019-10-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/gallery/a.html</loc>
+    <loc>/gallery/a/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/gallery.html</loc>
+    <loc>/gallery/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/series.html</loc>
+    <loc>/series/</loc>
   </url>
   
   <url>
-    <loc>/series/series.html</loc>
+    <loc>/series/series/</loc>
   </url>
   
 </urlset>

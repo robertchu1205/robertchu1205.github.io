@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on ChuZhu</title>
-    <link>/tags.html</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on ChuZhu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 19 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>devops</title>
-      <link>/tags/devops.html</link>
+      <link>/tags/devops/</link>
       <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>/tags/devops.html</guid>
+      <guid>/tags/devops/</guid>
       <description></description>
     </item>
     
     <item>
       <title>reasons</title>
-      <link>/tags/reasons.html</link>
+      <link>/tags/reasons/</link>
       <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>/tags/reasons.html</guid>
+      <guid>/tags/reasons/</guid>
       <description></description>
     </item>
     
     <item>
       <title>sre</title>
-      <link>/tags/sre.html</link>
+      <link>/tags/sre/</link>
       <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>/tags/sre.html</guid>
+      <guid>/tags/sre/</guid>
       <description></description>
     </item>
     
     <item>
       <title>thoughts</title>
-      <link>/tags/thoughts.html</link>
+      <link>/tags/thoughts/</link>
       <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>/tags/thoughts.html</guid>
+      <guid>/tags/thoughts/</guid>
       <description></description>
     </item>
     
