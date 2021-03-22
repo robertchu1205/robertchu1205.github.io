@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>sre on ChuZhu</title>
-    <link>http://192.168.1.21:80/categories/sre/</link>
+    <link>github.io/categories/sre/</link>
     <description>Recent content in sre on ChuZhu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://192.168.1.21:80/categories/sre/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="github.io/categories/sre/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Thoughts of this bio</title>
-      <link>http://192.168.1.21:80/post/thoughts-of-bio/</link>
+      <link>github.io/post/thoughts-of-bio/</link>
       <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://192.168.1.21:80/post/thoughts-of-bio/</guid>
+      <guid>github.io/post/thoughts-of-bio/</guid>
       <description>Robert Chu - Devops Task static site generator chosen Why Hugo, not Jekyll  more straightforward (installing themes and itself) binary (easier) installation faster builds Go built built-in live reload server Useful Features (e.g. Menus, sitemaps) Thriving community (The most Github stars in all static site generator)  Why Erblog as theme  mobile responsive posts showed in the landing pages  </description>
     </item>
     
